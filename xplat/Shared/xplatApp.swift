@@ -13,5 +13,8 @@ struct xplatApp: App {
         WindowGroup {
             ContentView()
         }
+        .commands {
+            SidebarCommands()
+        }
     }
 }

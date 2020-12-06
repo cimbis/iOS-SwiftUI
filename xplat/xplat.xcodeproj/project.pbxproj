@@ -13,6 +13,43 @@
 		49F200C125729F4E00D7B7A2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F200AC25729F4D00D7B7A2 /* ContentView.swift */; };
 		49F200C225729F4E00D7B7A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49F200AD25729F4E00D7B7A2 /* Assets.xcassets */; };
 		49F200C325729F4E00D7B7A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49F200AD25729F4E00D7B7A2 /* Assets.xcassets */; };
+		B53AB5EB257BC77800646E22 /* CloseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5EA257BC77800646E22 /* CloseButton.swift */; };
+		B53AB5EC257BC77800646E22 /* CloseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5EA257BC77800646E22 /* CloseButton.swift */; };
+		B53AB5F0257BCE5500646E22 /* CourseDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5EF257BCE5500646E22 /* CourseDetail.swift */; };
+		B53AB5F1257BCE5500646E22 /* CourseDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5EF257BCE5500646E22 /* CourseDetail.swift */; };
+		B53AB5FB257BD7B300646E22 /* Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F4257BD7B300646E22 /* Tutorial.swift */; };
+		B53AB5FC257BD7B300646E22 /* Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F4257BD7B300646E22 /* Tutorial.swift */; };
+		B53AB5FD257BD7B300646E22 /* Livestream.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F5257BD7B300646E22 /* Livestream.swift */; };
+		B53AB5FE257BD7B300646E22 /* Livestream.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F5257BD7B300646E22 /* Livestream.swift */; };
+		B53AB5FF257BD7B300646E22 /* GradientModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F6257BD7B300646E22 /* GradientModel.swift */; };
+		B53AB600257BD7B300646E22 /* GradientModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F6257BD7B300646E22 /* GradientModel.swift */; };
+		B53AB601257BD7B300646E22 /* LivestreamSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F7257BD7B300646E22 /* LivestreamSection.swift */; };
+		B53AB602257BD7B300646E22 /* LivestreamSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F7257BD7B300646E22 /* LivestreamSection.swift */; };
+		B53AB603257BD7B300646E22 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F8257BD7B300646E22 /* CourseSection.swift */; };
+		B53AB604257BD7B300646E22 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F8257BD7B300646E22 /* CourseSection.swift */; };
+		B53AB605257BD7B300646E22 /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F9257BD7B300646E22 /* Download.swift */; };
+		B53AB606257BD7B300646E22 /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5F9257BD7B300646E22 /* Download.swift */; };
+		B53AB607257BD7B300646E22 /* TutorialSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5FA257BD7B300646E22 /* TutorialSection.swift */; };
+		B53AB608257BD7B300646E22 /* TutorialSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB5FA257BD7B300646E22 /* TutorialSection.swift */; };
+		B53AB610257BE11A00646E22 /* VisualEffectBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB60F257BE11A00646E22 /* VisualEffectBlur.swift */; };
+		B53AB614257BE12A00646E22 /* VisualEffectBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53AB613257BE12A00646E22 /* VisualEffectBlur.swift */; };
+		B5609ACB257A6C4000746714 /* CourseRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609ACA257A6C3F00746714 /* CourseRow.swift */; };
+		B5609ACC257A6C4000746714 /* CourseRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609ACA257A6C3F00746714 /* CourseRow.swift */; };
+		B5609AD2257A730900746714 /* CoursesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609AD1257A730900746714 /* CoursesView.swift */; };
+		B5609AD3257A730900746714 /* CoursesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609AD1257A730900746714 /* CoursesView.swift */; };
+		B5609AD7257A744E00746714 /* Sidebar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609AD6257A744E00746714 /* Sidebar.swift */; };
+		B5609AD8257A744E00746714 /* Sidebar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609AD6257A744E00746714 /* Sidebar.swift */; };
+		B5609ADC257A88CF00746714 /* CourseLogo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609ADB257A88CF00746714 /* CourseLogo.swift */; };
+		B5609ADD257A88CF00746714 /* CourseLogo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609ADB257A88CF00746714 /* CourseLogo.swift */; };
+		B5609AEA257A8CA800746714 /* CourseContentList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609AE9257A8CA800746714 /* CourseContentList.swift */; };
+		B5609AEB257A8CA800746714 /* CourseContentList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609AE9257A8CA800746714 /* CourseContentList.swift */; };
+		B5609AF5257B983700746714 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609AF4257B983700746714 /* Course.swift */; };
+		B5609AF6257B983800746714 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5609AF4257B983700746714 /* Course.swift */; };
+		B5E9C335257D0E22005CE431 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E9C334257D0E22005CE431 /* TabBar.swift */; };
+		B5E9C339257D1E18005CE431 /* CourseSectionDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E9C338257D1E18005CE431 /* CourseSectionDetail.swift */; };
+		B5E9C33C257D29E7005CE431 /* CourseSectionDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E9C338257D1E18005CE431 /* CourseSectionDetail.swift */; };
+		B5E9C358257D3E60005CE431 /* LibraryContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E9C357257D3E60005CE431 /* LibraryContent.swift */; };
+		B5E9C359257D3E60005CE431 /* LibraryContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E9C357257D3E60005CE431 /* LibraryContent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +61,26 @@
 		49F200BA25729F4E00D7B7A2 /* xplat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xplat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49F200BC25729F4E00D7B7A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49F200BD25729F4E00D7B7A2 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		B53AB5EA257BC77800646E22 /* CloseButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloseButton.swift; sourceTree = "<group>"; };
+		B53AB5EF257BCE5500646E22 /* CourseDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseDetail.swift; sourceTree = "<group>"; };
+		B53AB5F4257BD7B300646E22 /* Tutorial.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tutorial.swift; sourceTree = "<group>"; };
+		B53AB5F5257BD7B300646E22 /* Livestream.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Livestream.swift; sourceTree = "<group>"; };
+		B53AB5F6257BD7B300646E22 /* GradientModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientModel.swift; sourceTree = "<group>"; };
+		B53AB5F7257BD7B300646E22 /* LivestreamSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LivestreamSection.swift; sourceTree = "<group>"; };
+		B53AB5F8257BD7B300646E22 /* CourseSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CourseSection.swift; sourceTree = "<group>"; };
+		B53AB5F9257BD7B300646E22 /* Download.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Download.swift; sourceTree = "<group>"; };
+		B53AB5FA257BD7B300646E22 /* TutorialSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialSection.swift; sourceTree = "<group>"; };
+		B53AB60F257BE11A00646E22 /* VisualEffectBlur.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisualEffectBlur.swift; sourceTree = "<group>"; };
+		B53AB613257BE12A00646E22 /* VisualEffectBlur.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisualEffectBlur.swift; sourceTree = "<group>"; };
+		B5609ACA257A6C3F00746714 /* CourseRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseRow.swift; sourceTree = "<group>"; };
+		B5609AD1257A730900746714 /* CoursesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoursesView.swift; sourceTree = "<group>"; };
+		B5609AD6257A744E00746714 /* Sidebar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sidebar.swift; sourceTree = "<group>"; };
+		B5609ADB257A88CF00746714 /* CourseLogo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseLogo.swift; sourceTree = "<group>"; };
+		B5609AE9257A8CA800746714 /* CourseContentList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseContentList.swift; sourceTree = "<group>"; };
+		B5609AF4257B983700746714 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
+		B5E9C334257D0E22005CE431 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		B5E9C338257D1E18005CE431 /* CourseSectionDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseSectionDetail.swift; sourceTree = "<group>"; };
+		B5E9C357257D3E60005CE431 /* LibraryContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryContent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,19 +104,22 @@
 		49F200A525729F4C00D7B7A2 = {
 			isa = PBXGroup;
 			children = (
-				49F200AA25729F4D00D7B7A2 /* Shared */,
+				49F200B325729F4E00D7B7A2 /* Products */,
 				49F200B425729F4E00D7B7A2 /* iOS */,
 				49F200BB25729F4E00D7B7A2 /* macOS */,
-				49F200B325729F4E00D7B7A2 /* Products */,
+				49F200AA25729F4D00D7B7A2 /* Shared */,
 			);
 			sourceTree = "<group>";
 		};
 		49F200AA25729F4D00D7B7A2 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				B5E9C341257D38C4005CE431 /* Course */,
+				B5E9C35E257D4175005CE431 /* Library */,
 				49F200AB25729F4D00D7B7A2 /* xplatApp.swift */,
-				49F200AC25729F4D00D7B7A2 /* ContentView.swift */,
 				49F200AD25729F4E00D7B7A2 /* Assets.xcassets */,
+				B5609AF9257BAEA500746714 /* Models */,
+				B5609AE0257A8C0100746714 /* Navigation */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -76,6 +136,7 @@
 		49F200B425729F4E00D7B7A2 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
+				B53AB60F257BE11A00646E22 /* VisualEffectBlur.swift */,
 				49F200B525729F4E00D7B7A2 /* Info.plist */,
 			);
 			path = iOS;
@@ -84,10 +145,82 @@
 		49F200BB25729F4E00D7B7A2 /* macOS */ = {
 			isa = PBXGroup;
 			children = (
+				B53AB613257BE12A00646E22 /* VisualEffectBlur.swift */,
 				49F200BC25729F4E00D7B7A2 /* Info.plist */,
 				49F200BD25729F4E00D7B7A2 /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		B5609AE0257A8C0100746714 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				B5609AD6257A744E00746714 /* Sidebar.swift */,
+				49F200AC25729F4D00D7B7A2 /* ContentView.swift */,
+				B5E9C334257D0E22005CE431 /* TabBar.swift */,
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
+		B5609AF9257BAEA500746714 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B53AB5F9257BD7B300646E22 /* Download.swift */,
+				B53AB5F6257BD7B300646E22 /* GradientModel.swift */,
+				B53AB5F5257BD7B300646E22 /* Livestream.swift */,
+				B53AB5F7257BD7B300646E22 /* LivestreamSection.swift */,
+				B53AB5F4257BD7B300646E22 /* Tutorial.swift */,
+				B53AB5FA257BD7B300646E22 /* TutorialSection.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B5E9C341257D38C4005CE431 /* Course */ = {
+			isa = PBXGroup;
+			children = (
+				B5E9C345257D3900005CE431 /* Components */,
+				B5E9C342257D38EC005CE431 /* Models */,
+				B5E9C34C257D3939005CE431 /* Views */,
+			);
+			path = Course;
+			sourceTree = "<group>";
+		};
+		B5E9C342257D38EC005CE431 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B5609AF4257B983700746714 /* Course.swift */,
+				B53AB5F8257BD7B300646E22 /* CourseSection.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B5E9C345257D3900005CE431 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				B5609AE9257A8CA800746714 /* CourseContentList.swift */,
+				B5E9C338257D1E18005CE431 /* CourseSectionDetail.swift */,
+				B5609ACA257A6C3F00746714 /* CourseRow.swift */,
+				B5609ADB257A88CF00746714 /* CourseLogo.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		B5E9C34C257D3939005CE431 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B53AB5EF257BCE5500646E22 /* CourseDetail.swift */,
+				B5609AD1257A730900746714 /* CoursesView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B5E9C35E257D4175005CE431 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				B5E9C357257D3E60005CE431 /* LibraryContent.swift */,
+				B53AB5EA257BC77800646E22 /* CloseButton.swift */,
+			);
+			path = Library;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -187,8 +320,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5609AF5257B983700746714 /* Course.swift in Sources */,
+				B5E9C339257D1E18005CE431 /* CourseSectionDetail.swift in Sources */,
+				B53AB605257BD7B300646E22 /* Download.swift in Sources */,
+				B5E9C335257D0E22005CE431 /* TabBar.swift in Sources */,
+				B5609AD7257A744E00746714 /* Sidebar.swift in Sources */,
+				B5609ADC257A88CF00746714 /* CourseLogo.swift in Sources */,
+				B53AB5F0257BCE5500646E22 /* CourseDetail.swift in Sources */,
+				B53AB603257BD7B300646E22 /* CourseSection.swift in Sources */,
+				B53AB5FB257BD7B300646E22 /* Tutorial.swift in Sources */,
+				B53AB5EB257BC77800646E22 /* CloseButton.swift in Sources */,
 				49F200C025729F4E00D7B7A2 /* ContentView.swift in Sources */,
+				B53AB5FD257BD7B300646E22 /* Livestream.swift in Sources */,
+				B5609ACB257A6C4000746714 /* CourseRow.swift in Sources */,
+				B53AB5FF257BD7B300646E22 /* GradientModel.swift in Sources */,
 				49F200BE25729F4E00D7B7A2 /* xplatApp.swift in Sources */,
+				B53AB601257BD7B300646E22 /* LivestreamSection.swift in Sources */,
+				B53AB607257BD7B300646E22 /* TutorialSection.swift in Sources */,
+				B53AB610257BE11A00646E22 /* VisualEffectBlur.swift in Sources */,
+				B5609AD2257A730900746714 /* CoursesView.swift in Sources */,
+				B5E9C358257D3E60005CE431 /* LibraryContent.swift in Sources */,
+				B5609AEA257A8CA800746714 /* CourseContentList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,8 +348,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5609AF6257B983800746714 /* Course.swift in Sources */,
+				B53AB606257BD7B300646E22 /* Download.swift in Sources */,
+				B5609AD8257A744E00746714 /* Sidebar.swift in Sources */,
+				B5609ADD257A88CF00746714 /* CourseLogo.swift in Sources */,
+				B53AB5F1257BCE5500646E22 /* CourseDetail.swift in Sources */,
+				B53AB604257BD7B300646E22 /* CourseSection.swift in Sources */,
+				B53AB5FC257BD7B300646E22 /* Tutorial.swift in Sources */,
+				B53AB5EC257BC77800646E22 /* CloseButton.swift in Sources */,
+				B5E9C33C257D29E7005CE431 /* CourseSectionDetail.swift in Sources */,
 				49F200C125729F4E00D7B7A2 /* ContentView.swift in Sources */,
+				B53AB5FE257BD7B300646E22 /* Livestream.swift in Sources */,
+				B5609ACC257A6C4000746714 /* CourseRow.swift in Sources */,
+				B53AB600257BD7B300646E22 /* GradientModel.swift in Sources */,
 				49F200BF25729F4E00D7B7A2 /* xplatApp.swift in Sources */,
+				B53AB602257BD7B300646E22 /* LivestreamSection.swift in Sources */,
+				B53AB608257BD7B300646E22 /* TutorialSection.swift in Sources */,
+				B53AB614257BE12A00646E22 /* VisualEffectBlur.swift in Sources */,
+				B5609AD3257A730900746714 /* CoursesView.swift in Sources */,
+				B5609AEB257A8CA800746714 /* CourseContentList.swift in Sources */,
+				B5E9C359257D3E60005CE431 /* LibraryContent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +428,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = "\"-Xlinker -interposable\"";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -310,6 +481,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				OTHER_LDFLAGS = "\"-Xlinker -interposable\"";
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 			};
